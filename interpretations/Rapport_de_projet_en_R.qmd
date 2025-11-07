@@ -1,0 +1,10 @@
+---
+title: "Rapport de projet de statistique descriptive et inférentielle utilisant le langage R"
+format: html
+---
+# Exercice 1 : 
+### Calculer la moyenne et la variance d'une série statistique des données entrées par un utilisateur
+
+![](images/code_1.png)
+
+
